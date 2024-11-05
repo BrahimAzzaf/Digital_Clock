@@ -18,3 +18,7 @@ A simple digital clock built using HTML, CSS, and JavaScript. This project displ
 1. **Clone the repository**:
    ```bash
    git clone [github Link](https://github.com/BrahimAzzaf/Digital_Clock.git)
+2. Navigate to the project directory:
+cd double-landing-page
+
+3. Open index.html in your browser to view the page.
